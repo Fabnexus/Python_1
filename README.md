@@ -1,11 +1,13 @@
 # Optimize the stock management of a shop by cleaning its data
 ### About this project:
-This project aims to use Python libraries to explore the different databases of an online alcohol sales company, which can no longer manage its stock.
+This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
+* Basic aggregations
+* CASE WHEN statements
+ * Window Functions
+ * Joins
+ * Date time functions
+ * CTEs
 ### tools: 
-- Python Notebook
-- Pandas
-- Plotly
+- PostgreSQLr
 ### Files: 
-- Python ipynb
-- final presentation PDF
-
+- SQL requests list and answers (PDF)
