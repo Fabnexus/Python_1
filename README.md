@@ -1,13 +1,8 @@
-# Optimize the stock management of a shop by cleaning its data
+# Create a dynamic dashboard with Power BI to visualize project progress
 ### About this project:
-This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
-* Basic aggregations
-* CASE WHEN statements
- * Window Functions
- * Joins
- * Date time functions
- * CTEs
+A company needs to monitor the progress of its projects at three levels
 ### tools: 
-- PostgreSQLr
+- Microsoft Power BI
 ### Files: 
-- SQL requests list and answers (PDF)
+- PBIX dash board
+- data modeling
