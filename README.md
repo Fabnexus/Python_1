@@ -1,8 +1,13 @@
-# Create a dynamic dashboard with Power BI to visualize project progress
+# Optimize the stock management of a shop by cleaning its data
 ### About this project:
-A company needs to monitor the progress of its projects at three levels
+This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
+* Basic aggregations
+* CASE WHEN statements
+ * Window Functions
+ * Joins
+ * Date time functions
+ * CTEs
 ### tools: 
-- Microsoft Power BI
+- PostgreSQLr
 ### Files: 
-- PBIX dash board
-- data modeling
+- SQL requests list and answers (PDF)
